@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.bhupendra.joke">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ib_launcher_me"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ib_launcher_me_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2861056896636349~6727790187"/>
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/AppTheme1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".categoriesActivity"
+            android:theme="@style/AppTheme1" />
+
+        <activity
+            android:name=".ENcategoriesActivity"
+            android:theme="@style/AppTheme1" />
+        <activity
+            android:name=".jokemainActivity"
+            android:theme="@style/AppTheme1" />
+        <activity
+            android:name=".LangSelectionActivity"
+            android:theme="@style/AppTheme1" />
+
+    </application>
+
+</manifest>

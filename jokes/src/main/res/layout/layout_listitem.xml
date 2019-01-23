@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg_cattt"
+    android:layout_margin="6dp"
+    android:id="@+id/parent_layout">
+
+    <!--<android.support.v7.widget.CardView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_margin="6dp"-->
+        <!--app:cardCornerRadius="10dp">-->
+
+
+
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:tint="#fff"
+        android:layout_margin="15dp"
+        android:padding="5dp"
+        android:background="@drawable/cir_pageno"
+        android:src="@drawable/ic_joker"/>
+
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="name"
+        android:id="@+id/image_name"
+
+        android:textColor="#000"
+      android:layout_marginTop="30dp"
+        android:layout_marginLeft="120dp"
+        android:textSize="23dp"/>
+
+    <!--<ImageView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="5dp"-->
+     <!--android:layout_marginLeft="10dp"-->
+        <!--android:layout_marginRight="10dp"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_alignParentRight="true"-->
+        <!--android:src="@drawable/doted"-->
+        <!--android:layerType="software" />-->
+
+    <!--</android.support.v7.widget.CardView>-->
+
+
+</RelativeLayout>
