@@ -34,10 +34,10 @@ public class categoriesActivity extends AppCompatActivity {
         //Log.d(TAG, "onCreate: started.");
 
 
-        MobileAds.initialize(this,
-                "ca-app-pub-2861056896636349~6727790187");
+//        MobileAds.initialize(this,
+//                "ca-app-pub-2861056896636349~6727790187");
 
-        mAdView = findViewById(R.id.adView);
+      //  mAdView = findViewById(R.id.adView);
         img = findViewById(R.id.change_lang);
 
 
@@ -53,9 +53,9 @@ public class categoriesActivity extends AppCompatActivity {
             }
         });
 
-
-        AdRequest adRequest = new AdRequest.Builder().addTestDevice(AdRequest.DEVICE_ID_EMULATOR).build();
-        mAdView.loadAd(adRequest);
+//
+//        AdRequest adRequest = new AdRequest.Builder().addTestDevice(AdRequest.DEVICE_ID_EMULATOR).build();
+//        mAdView.loadAd(adRequest);
 
         initImageBitmaps();
 
@@ -75,7 +75,7 @@ public class categoriesActivity extends AppCompatActivity {
         mNames.add("राजनीति");
         mNames.add("18+");
 
-       // initRecyclerView();
+        initRecyclerView();
     }
 
 

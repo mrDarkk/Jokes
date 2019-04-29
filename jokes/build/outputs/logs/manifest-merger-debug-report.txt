@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:design:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/4835f48b1c3f9ac3beedec0132150c44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/34d214436a6fe46960c2d29b19bcea10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/e630204c90a20e56c5f30e41a0ea46be/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/5fecb6a7a189824341d40635d7ac1b82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/73b616b277211540c85dea04c5d52aa3/AndroidManifest.xml:17:1-25:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8be2651a62be760043655f5b8eb6677a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/562042300be4255353255cb58f5b9c83/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/069725cf2aa45f53366e20a8ad7300cc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8e82953dbbae815b0cbdad1d67352c3d/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/f0e1e7722a5686aa7d80ea14ad378118/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/ce4d7cf9b566be1e07795407f2068c1a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/91ca2f07351dc4a0681a7cc58cd3b6c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/39a758f029b00518d8b2f03fc0a79431/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/6eea51aaa0239346fa5ecdd69154da3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/225e973df54fdd8424e79c71eb61793f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/cc220e3b270a952043bd45d063379817/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/41c640120f5c2bdd88c36620ee008fee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8f040705077dee2f98cffe752f1f39c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/22836817a1b6767db5655189ccfee4b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:26.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/be30f2e6018fa87ddd4b052d1409841a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/d895d82eba2d60c1c5533a39c25f3ed2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/586acbf16d870c161843544df162beba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/500a61394c1cb78726dbf0e0837fccd4/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8472c016f2183fdbf704f683588b971a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/00d593589006d4cc063b13225a69673b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/330c0741f9de37c0464c692e6f069ce3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/d4795b1ab414a32fabc026acbb27d958/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:4:5-33
+		INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+		INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8e82953dbbae815b0cbdad1d67352c3d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8e82953dbbae815b0cbdad1d67352c3d/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8e82953dbbae815b0cbdad1d67352c3d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8e82953dbbae815b0cbdad1d67352c3d/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:9:5-43:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/e630204c90a20e56c5f30e41a0ea46be/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/e630204c90a20e56c5f30e41a0ea46be/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8be2651a62be760043655f5b8eb6677a/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8be2651a62be760043655f5b8eb6677a/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/562042300be4255353255cb58f5b9c83/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/562042300be4255353255cb58f5b9c83/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/069725cf2aa45f53366e20a8ad7300cc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/069725cf2aa45f53366e20a8ad7300cc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8e82953dbbae815b0cbdad1d67352c3d/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8e82953dbbae815b0cbdad1d67352c3d/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/f0e1e7722a5686aa7d80ea14ad378118/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/f0e1e7722a5686aa7d80ea14ad378118/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/ce4d7cf9b566be1e07795407f2068c1a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/ce4d7cf9b566be1e07795407f2068c1a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/be30f2e6018fa87ddd4b052d1409841a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/be30f2e6018fa87ddd4b052d1409841a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/500a61394c1cb78726dbf0e0837fccd4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/500a61394c1cb78726dbf0e0837fccd4/AndroidManifest.xml:7:5-20
+	android:supportsRtl
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:12:9-41
+	tools:ignore
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:16:9-48
+	android:roundIcon
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:13:9-57
+	android:icon
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:11:9-46
+	android:allowBackup
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:15:9-40
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:17:9-19:69
+	android:value
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:19:13-67
+	android:name
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:18:13-69
+activity#com.bhupendra.joke.SplashActivity
+ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:20:9-28:20
+	android:theme
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:21:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:26:27-74
+activity#com.bhupendra.joke.categoriesActivity
+ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:29:9-31:48
+	android:theme
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:30:13-47
+activity#com.bhupendra.joke.ENcategoriesActivity
+ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:33:9-35:48
+	android:theme
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:34:13-49
+activity#com.bhupendra.joke.jokemainActivity
+ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:36:9-38:48
+	android:theme
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:37:13-45
+activity#com.bhupendra.joke.LangSelectionActivity
+ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:39:9-41:48
+	android:theme
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml:40:13-50
+uses-sdk
+INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/4835f48b1c3f9ac3beedec0132150c44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/4835f48b1c3f9ac3beedec0132150c44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/34d214436a6fe46960c2d29b19bcea10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/34d214436a6fe46960c2d29b19bcea10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/e630204c90a20e56c5f30e41a0ea46be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/e630204c90a20e56c5f30e41a0ea46be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/5fecb6a7a189824341d40635d7ac1b82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/5fecb6a7a189824341d40635d7ac1b82/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/73b616b277211540c85dea04c5d52aa3/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/73b616b277211540c85dea04c5d52aa3/AndroidManifest.xml:21:5-23:62
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8be2651a62be760043655f5b8eb6677a/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8be2651a62be760043655f5b8eb6677a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/562042300be4255353255cb58f5b9c83/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/562042300be4255353255cb58f5b9c83/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/069725cf2aa45f53366e20a8ad7300cc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/069725cf2aa45f53366e20a8ad7300cc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8e82953dbbae815b0cbdad1d67352c3d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8e82953dbbae815b0cbdad1d67352c3d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/f0e1e7722a5686aa7d80ea14ad378118/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/f0e1e7722a5686aa7d80ea14ad378118/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/ce4d7cf9b566be1e07795407f2068c1a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/ce4d7cf9b566be1e07795407f2068c1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/91ca2f07351dc4a0681a7cc58cd3b6c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/91ca2f07351dc4a0681a7cc58cd3b6c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/39a758f029b00518d8b2f03fc0a79431/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/39a758f029b00518d8b2f03fc0a79431/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/6eea51aaa0239346fa5ecdd69154da3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/6eea51aaa0239346fa5ecdd69154da3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/225e973df54fdd8424e79c71eb61793f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/225e973df54fdd8424e79c71eb61793f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/cc220e3b270a952043bd45d063379817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/cc220e3b270a952043bd45d063379817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/41c640120f5c2bdd88c36620ee008fee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/41c640120f5c2bdd88c36620ee008fee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8f040705077dee2f98cffe752f1f39c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8f040705077dee2f98cffe752f1f39c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/22836817a1b6767db5655189ccfee4b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/22836817a1b6767db5655189ccfee4b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/be30f2e6018fa87ddd4b052d1409841a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/be30f2e6018fa87ddd4b052d1409841a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/d895d82eba2d60c1c5533a39c25f3ed2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/d895d82eba2d60c1c5533a39c25f3ed2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/586acbf16d870c161843544df162beba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/586acbf16d870c161843544df162beba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/500a61394c1cb78726dbf0e0837fccd4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/500a61394c1cb78726dbf0e0837fccd4/AndroidManifest.xml:5:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8472c016f2183fdbf704f683588b971a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8472c016f2183fdbf704f683588b971a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/00d593589006d4cc063b13225a69673b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/00d593589006d4cc063b13225a69673b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/330c0741f9de37c0464c692e6f069ce3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/330c0741f9de37c0464c692e6f069ce3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/d4795b1ab414a32fabc026acbb27d958/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/d4795b1ab414a32fabc026acbb27d958/AndroidManifest.xml:20:5-44
+INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/73b616b277211540c85dea04c5d52aa3/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+		INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+		ADDED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+		INJECTED from /Users/bhupendrabanothe/Jokes/jokes/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/3688fd18913293269b0099c8eccaa32c/AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8e82953dbbae815b0cbdad1d67352c3d/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.3] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/8e82953dbbae815b0cbdad1d67352c3d/AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/ce4d7cf9b566be1e07795407f2068c1a/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/ce4d7cf9b566be1e07795407f2068c1a/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/ce4d7cf9b566be1e07795407f2068c1a/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/be30f2e6018fa87ddd4b052d1409841a/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/be30f2e6018fa87ddd4b052d1409841a/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] /Users/bhupendrabanothe/.gradle/caches/transforms-2/files-2.1/be30f2e6018fa87ddd4b052d1409841a/AndroidManifest.xml:24:13-51
